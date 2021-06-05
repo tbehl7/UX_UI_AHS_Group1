@@ -141,6 +141,8 @@ body {
   border-bottom: 8px solid #DDDDDD;
 }
 .mainLogo {
+  display: flex;
+  flex-direction: column;
   padding: 20px;
 }
 .altLogo {
