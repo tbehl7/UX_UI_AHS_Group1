@@ -140,4 +140,13 @@ body {
 .sectionHead {
   border-bottom: 8px solid #DDDDDD;
 }
+.mainLogo {
+  padding: 20px;
+}
+.altLogo {
+  padding: 20px;
+}
+.ahsIcon {
+  padding: 20px;
+}
 
