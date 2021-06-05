@@ -1,10 +1,14 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
 /* Header Styles */
 .header {
-  background-image: url(../images/upsBackground.png);
+  background-image: url(../images/ahsBackground.png);
   background-size: cover;
   background-repeat: no-repeat;
   max-height: 500px;
-  height: 250px;
+  height: 400px;
   background-position: bottom;
 }
 #pageTopic {
@@ -30,8 +34,8 @@
    border-bottom-left-radius: 7px;
    border-bottom-right-radius: 7px;
 }
-.darkBlue {
-  background-color: #333366;
+.brandRed {
+  background-color: #EC1D30;
 }
 .darkGrey {
   background-color: #545454;
@@ -46,16 +50,16 @@
   background-color: #12A0F6;
 }
 .red {
-  background-color: #F84848;
+  background-color: #EC1D30;
 }
-.orange {
-  background-color: #FC7705;
+.pink {
+  background-color: #FC0564;
 }
 .lightBlue {
-  background-color: #13A0F6;
+  background-color: #00D4FA;
 }
 .lightGreen {
-  background-color: #8ABE48;
+  background-color: #7BE03C;
 }
 /* Typography CSS */
 .type_container {
@@ -136,3 +140,4 @@
 .sectionHead {
   border-bottom: 8px solid #DDDDDD;
 }
+
