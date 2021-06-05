@@ -103,39 +103,37 @@ body {
    padding: 15px;
    margin: 15px;
    width: 150px;
-   font-size: 14px;
+   font-size: 18px;
    text-align: center;
    color: white;
 }
 .primary {
-  background-color: #2B459A;
+  background-color: #FFFFFF;
+  border: 4px solid #545454;
+  border-radius: 20px;
+  color: #545454;
 }
-.success {
-  background-color: #8ABE48;
-}
-.danger {
-  background-color: #F84848;
-}
-.warning {
-  background-color: #FC7705;
-}
-.info {
-  background-color: #0099FA;
+.primaryHover {
+  background-color: #E3E3E3;
+  border: 4px solid #545454;
+  border-radius: 20px;
+  color: #545454;
 }
 .primaryActive {
-  background-color: #3A66B7;
+  background-color: #545454;
+  border: 4px solid #545454;
+  border-radius: 20px;
 }
-.successActive {
-  background-color: #668C35;
+.donatePrimary { 
+background-color: #FFFFFF;
+border: 4px solid #E13836;
+border-radius: 20px;
+color: #E13836;
 }
-.dangerActive {
-  background-color: #AD4848;
-}
-.warningActive {
-  background-color: #BA7A43;
-}
-.infoActive {
-  background-color: #4386BA;
+.donateHover {
+  background-color: #E13836;
+  border: 4px solid #E13836;
+  border-radius: 20px;
 }
 .sectionHead {
   border-bottom: 8px solid #DDDDDD;
